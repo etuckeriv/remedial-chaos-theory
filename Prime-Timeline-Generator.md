@@ -1,4 +1,4 @@
-Here is a "Mad Lib" style set of tables if you need help coming up with a fun and engaging Timeline Twist. There are 3 Categories (Mundane Element + Impossible Modifier + Social/Physical Consequence) and you'll complete a total of 6 rolls (2 for each). 
+Here is a "Mad Lib" style set of tables if you need help coming up with a fun and engaging Prime Timeline. There are 3 Categories (Mundane Element + Impossible Modifier + Social/Physical Consequence) and you'll complete a total of 6 rolls (2 for each). 
 
 # Usage
 - For each category just roll a D6 to determine which table you'll pick from for that category, then roll again to determin the detail from that category.
