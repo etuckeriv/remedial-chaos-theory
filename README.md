@@ -9,8 +9,8 @@ A Minimal TTRPG inspired by that episode of Community.
 ## Travelers:
 Each player is a "Traveler" who has the ability to traverse timelines, and are defined by a simple character sheet:
  - Who/what are they? This is intentionally vague :-)
- - Their totem: an object or artifact that, when used logically in a given situation, can shift everyone to their timeline and give them "Prime Points". 
- - Their "Timeline Twist": The twist on the base timeline that identifies a timeline as their "Prime" timeline. The more absurd, the better!
+ - Their totem: an ordinary object from their home timeline that acts as an anchorpoint. When successfully used in a novel or creative way, it can shift reality back to their home timeline and earn them "Prime Points". 
+ - Their "Timeline Twist": A twist on the base timeline that distinguishes it as their "Prime" timeline. The more absurd, the better! (HINT: Think Rick and Morty Interdimensional Cable style absurdity)
 
 As the game unfolds, the Travelers are responsible for describing their actions and consequences, as well as tracking their "Ripple Points" and "Prime Points".
  - 4 "Ripple Points" = 1 "Prime Point"
@@ -46,4 +46,4 @@ Each Traveler, in turn, takes an action in an attempt to shift reality to their 
 			 - Take the lowest for disadvantage
 		 - If you only have 1 D6, just add a +1 to their roll for advantage or -1 for disadvantage
 
-The session ends when one Traveler earns 6 "Prime Points", successfully shifting everyone's reality to their "Prime Timeline". The winning Traveler is the GM for the next session, using their "Prime Timeline" as the session's starting "base timeline".
+The session ends when one Traveler earns 4 "Prime Points", successfully shifting everyone's reality to their "Prime Timeline". The winning Traveler is the GM for the next session, using their "Prime Timeline" as the session's starting "base timeline".
