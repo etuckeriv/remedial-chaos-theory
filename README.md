@@ -28,22 +28,27 @@ Throughout the session, each Traveler takes turns carrying out actions and using
 
 ### The Action Loop
 Each Traveler, in turn, takes an action in an attempt to shift reality to their timeline:
- - On the Traveler's turn they narrate the action that they're going to take
-	 - GM Notes: Traveler actions should be both within the context of the active twist + current situation, and have some connection to their own timeline twist. If they use their Totem, usage should also fit logically into the the active twist + current situation
+- On the Traveler's turn they narrate the action that they're going to take
 - Then they roll a D6:
-	- 5-6 = Success. The Traveler narrates how they succeed and earns a "Ripple Point"
+	- 6 = Critical Success. The Traveler narrates how they succeed and earns TWO "Ripple Points"
+  	- 5 = Success. The Traveler narrates how they succeed and earns a "Ripple Point"
 	- 3-4 = Setback. The other Travelers narrate the setback, no points earned
-	- 1-2 = Failure. The Traveler narrates how they fail + the GM adds a random complication/condition
+	- 1-2 = Failure. The Traveler narrates how they fail + the GM adds a random complication/condition, their turn ends immediately
 - Additionally, if they use their Totem during their action:
-	- Critical Success (6) = They get a "Prime Point" (in addition to their "Ripple Point"), and everyone's reality shifts to their timeline
+	- Critical Success (6) = They get a "Prime Point", an additional "Ripple Point", and everyone's reality shifts to their timeline
 	- Success (5) = They get an additional "Ripple Point" and everyone's reality shifts to their timeline
 	- Setback = They receive no points, but still manage to shift reality to their timeline (while still incurring the setback)
-	- Failure = Lose 1 "Ripple Point" and the timeline jumps to the "base" timeline set by the GM (in addition to the random complication/condition set by the GM)
-- If a Traveler starts their turn in their own timeline, they roll with advantage. Since they don't need to shift the timeline, they're instead working to "persist" their timeline. A successful roll means they strengthen their timeline's persistence and **the next Traveler rolls with disadvantage**.
-	 - GM Notes:
-		 - If you have more than one D6, they can roll 2 dice
-			 - Take the highest for advantage
-			 - Take the lowest for disadvantage
-		 - If you only have 1 D6, just add a +1 to their roll for advantage or -1 for disadvantage
+	- Failure = Lose 1 "Ripple Point" and the timeline jumps to the "base" timeline set by the GM (in addition to the random complication/condition set by the GM), their turn ends immediately
+- _GM Notes_:
+  - Travelers can continue rolling at a cost of 1 Ripple Point per role.
+  - Failed rolls end their turn immediately
+  - Traveler actions should be both within the context of the active twist + current situation, and have some connection to their own timeline twist.
+  - Totems can be used Once per turn.
+  - If they use their Totem, usage should also fit logically into the the active twist + current situation
+  - If a Traveler starts their turn in their own timeline, they roll with advantage. Since they don't need to shift the timeline, they're instead working to "persist" their timeline. A successful roll means they strengthen their timeline's persistence and **the next Traveler rolls with disadvantage**.
+	- If you have more than one D6, they can roll 2 dice
+		- Take the highest for advantage
+		- Take the lowest for disadvantage
+		- If you only have 1 D6, just add a +1 to their roll for advantage or -1 for disadvantage
 
 The session ends when one Traveler earns 4 "Prime Points", successfully shifting everyone's reality to their "Prime Timeline". The winning Traveler is the GM for the next session, using their "Prime Timeline" as the session's starting "base timeline".
