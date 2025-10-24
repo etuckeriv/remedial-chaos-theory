@@ -7,16 +7,23 @@ A Minimal TTRPG inspired by that episode of Community.
 "Remedial Chaos Theory" uses six-sided dice, and pencil/paper for play.
 
 ## Travelers:
-Each player is a "Traveler" who has the ability to traverse timelines, and are defined by a simple character sheet:
+Each player is a "Traveler" - a normal person who has the ability to traverse timelines,but they don't really understand how or why. They are defined by a simple character sheet:
  - Who/what are they? This is intentionally vague :-)
- - A Totem: an ordinary object from their home timeline that acts as an anchorpoint. When successfully used in a novel or creative way, it can shift reality back to their home timeline and earn them "Prime Points". 
+ - A Totem: an ordinary object from their home timeline that somehow crosses with them and acts as an anchorpoint. Travelers have figured out when they use their totem in a novel or creative way, it can shift reality back to their home timeline.
+ 	- If you're a new player or would like some help (or examples) for coming up with a Totem, check out the [Totem Generator](https://github.com/etuckeriv/remedial-chaos-theory/blob/main/Totem-Generator)
  - A "Timeline Twist": A twist on the base timeline that distinguishes it as their "Prime" timeline. The more absurd, the better! (HINT: Think Rick and Morty Interdimensional Cable style absurdity)
+	- If you're a new player or would like some help (or examples) for coming up with a Timeline Twist, check out the [Timeline Twist Generator](https://github.com/etuckeriv/remedial-chaos-theory/blob/main/Timeline-Twist-Generator.md)
+
+### Points:
+To win the game, Travelers must accumulate "Ripple Points" and "Prime Points".
+ - 4 "Ripple Points" = 1 "Prime Point"
+ - 4 "Prime Points" wins the session
+
+"Ripple Points" can also be spent on extra rolls during a Traveler's turn.
 
 As the game unfolds, the Travelers are responsible for describing their actions and consequences, as well as tracking their "Ripple Points" and "Prime Points".
- - 4 "Ripple Points" = 1 "Prime Point"
- - 4 "Prime Points" wins the session.
 
-Feel free to utilize "clocks" to track "Ripple Points" and "Prime Points" as well.
+Generally you can use something as simple as tally marks to track points, but feel free to utilize "Progress Clocks" [(example)](https://gm-lazarus.itch.io/rpg-progress-clocks) as a fun way to track them as well.
 
 ## The GM:
 The GM has a simple role in this game: Provide the starting scenario ("base timeline") and guide the narrative as the game unfolds. Although the Travelers primarily build the world and tell the story, the GM has agency to throw in descriptions, "quirks", or "conditions" to liven up game play at their discretion.
