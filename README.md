@@ -34,11 +34,15 @@ Each Traveler, in turn, takes an action in an attempt to shift reality to their 
   	- 5 = Success. The Traveler narrates how they succeed and earns a "Ripple Point"
 	- 3-4 = Setback. The other Travelers narrate the setback, no points earned
 	- 1-2 = Failure. The Traveler narrates how they fail + the GM adds a random complication/condition, their turn ends immediately
-- Additionally, if they use their Totem during their action:
+- Additionally, they may use their Totem once per turn:
 	- Critical Success (6) = They get a "Prime Point", an additional "Ripple Point", and everyone's reality shifts to their timeline
 	- Success (5) = They get an additional "Ripple Point" and everyone's reality shifts to their timeline
 	- Setback = They receive no points, but still manage to shift reality to their timeline (while still incurring the setback)
 	- Failure = Lose 1 "Ripple Point" and the timeline jumps to the "base" timeline set by the GM (in addition to the random complication/condition set by the GM), their turn ends immediately
+- The Traveler may continue to roll at a cost of 1 Ripple Point per additional roll.
+	- 5-6 Success = 1 "Ripple Point", Traveler narrates success and stabilizes their timeline (causing next traveler to roll with disadvantage)
+ 	- 4-5 Setback = No points, the other travelers narrate a setback, the traveler may continue rolling if they can afford to
+  	- 1-2 Failure = No points, Traveler narrates their failure, GM adds a random complication/condition, their turn ends immediately
 - _GM Notes_:
   - Travelers can continue rolling at a cost of 1 Ripple Point per role.
   - Failed rolls end their turn immediately
