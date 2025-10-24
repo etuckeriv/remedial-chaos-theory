@@ -13,8 +13,8 @@ Each player is a "Traveler" who has the ability to traverse timelines, and are d
  - Their "Timeline Twist": The twist on the base timeline that identifies a timeline as their "Prime" timeline. The more absurd, the better!
 
 As the game unfolds, the Travelers are responsible for describing their actions and consequences, as well as tracking their "Ripple Points" and "Prime Points".
- - 5 "Ripple Points" = 1 "Prime Point"
- - 5 "Prime Points" wins the session.
+ - 4 "Ripple Points" = 1 "Prime Point"
+ - 4 "Prime Points" wins the session.
 
 Feel free to utilize "clocks" to track "Ripple Points" and "Prime Points" as well.
 
