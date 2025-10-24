@@ -28,7 +28,7 @@ Each player is a "Traveler" - a normal person who has the ability to traverse ti
 - A Totem: an ordinary object from their home timeline that somehow crosses with them and acts as an anchorpoint. Travelers have figured out that when they use their totem in a novel or creative way, it can shift reality back to their home timeline.
 	- If you're a new player or would like some help (or examples) for coming up with a Totem, check out the [Totem Generator](https://github.com/etuckeriv/remedial-chaos-theory/blob/main/Totem-Generator)
 - A Prime Timeline: A ridiculous twist on the base timeline that distinguishes it as their "Prime" timeline. The more absurd and/or chaotic, the better! (HINT: Think Rick and Morty Interdimensional Cable style absurdity)
-	- If you're a new player or would like some help (or examples) for coming up with a Prime Timeline, check out the [Prime Timeline Generator](https://github.com/etuckeriv/remedial-chaos-theory/blob/main/Timeline-Twist-Generator.md)
+	- If you're a new player or would like some help (or examples) for coming up with a Prime Timeline, check out the [Prime Timeline Generator](https://github.com/etuckeriv/remedial-chaos-theory/blob/main/Prime-Timeline-Generator.md)
 
 ---
 ### Beginning:
