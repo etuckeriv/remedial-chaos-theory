@@ -40,7 +40,7 @@ Each player is a "Traveler" - a normal person who has the ability to traverse ti
 ### Beginning:
 The session begins with the GM describing the scene that the Travelers currently find themselves in (based on the Base Timeline), and then asks "What do you notice that makes you feel like something is 'off'?".
 
-The group then narrates the indicators that they aren't in their Prime Timeline anymore, the GM plays off of these descriptions to present an initial challenge and then simply asks the first player "What do you do?"
+The group then narrates the indicators that they aren't in their Prime Timeline anymore, the GM presents an initial encounter and then simply asks the first player "What do you do?"
 
 ---
 ### Core Gameplay & Action-Loop:
