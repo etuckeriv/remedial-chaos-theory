@@ -87,7 +87,7 @@ Each Traveler, in turn, takes actions in an attempt to shift reality to their ti
  		- **Totem Action**: Reality shifts to the BASE Timeline, -1 Prime Point
    		- **Stabilize Action**: Timeline becomes UNSTABLE, -2 Ripple Points
      	- **Ripple Action**: They lose -2 Ripple Point
-- Travellers may continue attempting Stabilize or Ripple actions as long as they have Ripple Points to spend.
+- Travellers may continue attempting Stabilize or Ripple actions as long as they have Ripple Points to spend (or until a failur ends their turn).
 - When the Traveler's turn has ended, the GM helps narrate a transition and challenge for the next Traveler.
 
 This continues throughout the game until one Traveler has earned enough Prime Points to end the game.
