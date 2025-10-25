@@ -16,13 +16,13 @@ A Minimal TTRPG inspired by the "Remedial Chaos Theory" episode of Community.
 
 **The GM**:
 - The GM plays simple role in this game: Provide the Base Timeline, the starting scenario, and guide the narrative as the game unfolds. Although the Travelers primarily build the world and tell the story, the GM has agency to throw in descriptions, "quirks", or "conditions" to liven up game play at their discretion.
-	- **GM Resources**:
-		- Don't think too hard about the Base Timeline. It can be the normal everyday timeline we live in, or feel free to generate one with the [Prime Timeline Generator](https://github.com/etuckeriv/remedial-chaos-theory/blob/main/Prime-Timeline-Generator.md)
-   		- **[GM Conditions Table](https://github.com/etuckeriv/remedial-chaos-theory/blob/main/GM-Conditions-Table.md)** to help you come up with fun quirks/conditions on roll failures!
-   		- **[GM Encounter Table](https://github.com/etuckeriv/remedial-chaos-theory/blob/main/GM-Encounter-Table)** to help generate encounters to keep things moving and hurtling towards absurdity & chaos!
-     	- **Advantage/Disadvantage**. If you aren't familiar with this concept, here's how it works:
-      		- 2+ D6: For advantage, roll 2 D6 and take the higher number. For disadvantage, roll 2 D6 and take the lower number.
-        	- Only 1 D6: For advantage, roll the D6 and +1 to the number. For disadvantage, roll the D6 and -1 from the number. 
+- **GM Resources**:
+	- Don't think too hard about the Base Timeline. It can be the normal everyday timeline we live in, or feel free to generate one with the [Prime Timeline Generator](https://github.com/etuckeriv/remedial-chaos-theory/blob/main/Prime-Timeline-Generator.md)
+	- **[GM Conditions Table](https://github.com/etuckeriv/remedial-chaos-theory/blob/main/GM-Conditions-Table.md)** to help you come up with fun quirks/conditions on roll failures!
+	- **[GM Encounter Table](https://github.com/etuckeriv/remedial-chaos-theory/blob/main/GM-Encounter-Table)** to help generate encounters to keep things moving and hurtling towards absurdity & chaos!
+	- **Advantage/Disadvantage**. If you aren't familiar with this concept, here's how it works:
+		- 2+ D6: For advantage, roll 2 D6 and take the higher number. For disadvantage, roll 2 D6 and take the lower number.
+		- Only 1 D6: For advantage, roll the D6 and +1 to the number. For disadvantage, roll the D6 and -1 from the number. 
 
 ---
 ### Session Start & Character Generation:
