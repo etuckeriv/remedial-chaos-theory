@@ -74,7 +74,7 @@ Each Traveler, in turn, takes actions in an attempt to shift reality to their ti
 	- **6 = Critical Success**. The Traveler narrates how they succeed
  		- **Totem Action**: Reality shifts to their Prime Timeline, they automatically earn +1 Prime Point and +3 Ripple Points
    		- **Stabilize Action**: Their Prime Timeline is Stabilized, they earn +3 Ripple Points
-     	- **Ripple Action**: They earn 3x Ripple Points
+     	- **Ripple Action**: They earn +3 Ripple Points
   	- **5 = Success**. The Traveler narrates how they succeed
   		- **Totem Action**: Reality shifts to their Prime timeline, They earn +2 Ripple Points
   	 	- **Stabilize Action**: Their Prime timeline is Stabilized, they earn +2 Ripple Points
