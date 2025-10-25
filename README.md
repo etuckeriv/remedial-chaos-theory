@@ -62,7 +62,7 @@ Timeline Stability will make more sense later, but for now here is how it affect
 
 _**Note**: "Prime" Timeline = The Traveler's home timeline, "Foreign" Timeline = Any other timeline._
 
-**Actions**:
+**Traveler Actions**:
 - **Totem Actions**: Timelines will shift often throughout the session, and given the active timeline twist and current scenario it's up to the Travelers to think up ways they will use their Totem to shift the timeline to their own. This is known as the "Totem Action".
 - **Stabilize Actions**: After a Traveler has successfully shifted reality to their Prime Timeline, they can spend Ripple Points to attempt a "Stabilize Action" in an effort to Stabilize their timeline.
 - **Ripple Actions**: After a Traveler has successfully Stabilized their Prime Timeline, they can spend Ripple Points to attempt a "Ripple Action" in an effort to earn additional Ripple Points.
