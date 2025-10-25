@@ -96,3 +96,10 @@ This continues throughout the game until one Traveler has earned enough Prime Po
 ---
 ### Session End
 The session ends when one Traveler earns 4 Prime Points, successfully shifting everyone's reality to their Prime Timeline. The winning Traveler is the GM for the next session, using their "Prime Timeline" as the session's starting "base timeline".
+
+---
+
+### License
+"Ripple Effect" © 2025 Eddie Tucker  
+Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
+You are free to use, share, and remix this game with attribution and the same license.
