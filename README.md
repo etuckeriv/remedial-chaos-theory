@@ -31,7 +31,8 @@ At the start of the session, Players will individually generate their Traveler's
 #### The Character Sheet:
 Each player is a "Traveler" - a normal person who has the ability to traverse timelines, but they don't really understand how or why. They are defined by a simple character sheet:
 - **Who/what are they?** This is intentionally vague :-)
-- **A Totem**: an ordinary object from their home timeline that somehow crosses with them and acts as an anchorpoint. Travelers have figured out that **when they use their totem in a novel or creative way, it can shift reality back to their home timeline**.
+- **A Totem**: an ordinary object from their home timeline that somehow crosses with them and acts as an anchorpoint.
+	- Travelers have figured out that **when they use their totem in a novel or creative way, it can shift reality back to their home timeline**.
 	- If you're a new player or would like some help (or examples) for coming up with a Totem, check out the [Totem Generator](https://github.com/etuckeriv/remedial-chaos-theory/blob/main/Totem-Generator)
 - **A Prime Timeline**: A ridiculous/absurd twist on the base timeline that distinguishes it as their "Prime" timeline. The more absurd and/or chaotic, the better! (HINT: Think Rick and Morty Interdimensional Cable style absurdity)
 	- If you're a new player or would like some help (or examples) for coming up with a Prime Timeline, check out the [Prime Timeline Generator](https://github.com/etuckeriv/remedial-chaos-theory/blob/main/Prime-Timeline-Generator.md)
