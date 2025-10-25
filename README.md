@@ -1,4 +1,4 @@
-# "Ripple-Effect"
+# Ripple-Effect
 
 A Minimal TTRPG inspired by the "Remedial Chaos Theory" episode of Community.
 
@@ -15,8 +15,14 @@ A Minimal TTRPG inspired by the "Remedial Chaos Theory" episode of Community.
 - Session Start & Character Generation > Beginning > Core Gameplay & Action Loop > Session End
 
 **The GM**:
-- The GM plays simple role in this game: Provide the starting scenario ("base timeline") and guide the narrative as the game unfolds. Although the Travelers primarily build the world and tell the story, the GM has agency to throw in descriptions, "quirks", or "conditions" to liven up game play at their discretion.
-	- See [GM Resources]() for guidance
+- The GM plays simple role in this game: Provide the Base Timeline, the starting scenario, and guide the narrative as the game unfolds. Although the Travelers primarily build the world and tell the story, the GM has agency to throw in descriptions, "quirks", or "conditions" to liven up game play at their discretion.
+	- GM Resources:
+		- Don't think too hard about the Base Timeline. It can be the normal everyday timeline we live in, or feel free to generate one with the [Prime Timeline Generator](https://github.com/etuckeriv/remedial-chaos-theory/blob/main/Prime-Timeline-Generator.md)
+   		- [GM Conditions Table](https://github.com/etuckeriv/remedial-chaos-theory/blob/main/GM-Conditions-Table.md) to help you come up with fun quirks/conditions on roll failures!
+   		- [GM Encounter Table](https://github.com/etuckeriv/remedial-chaos-theory/blob/main/GM-Encounter-Table) to help generate encounters to keep things moving and hurtling towards absurdity & chaos!
+     	- Advantage/Disadvantage:
+      		- 2+ Dice: For advantage, roll 2 D6 and take the higher number. For disadvantage, roll 2 D6 and take the lower number.
+        	- Only 1 D6: For advantage, roll the D6 and +1 to the number. For disadvantage, roll the D6 and -1 from the number. 
 
 ---
 ### Session Start & Character Generation:
@@ -41,7 +47,7 @@ The group then narrates the indicators that they aren't in their Prime Timeline 
 
 **Points**:
 To win the game, Travelers must earn "Ripple Points" and "Prime Points".
- - 4 Ripple Points = 1 Prime Point
+ - 8 Ripple Points = 1 Prime Point
  - 4 Prime Points wins the session
 
 Travelers are responsible for tracking their own points. 
@@ -61,17 +67,17 @@ _**Note**: "Prime" Timeline = The Traveler's home timeline, "Foreign" Timeline =
 - After a Traveler has successfully shifted reality to their Prime Timeline, they can spend Ripple Points to attempt a **"Stabilize Action"** in an effort to Stabilize their timeline.
 - After a Traveler has successfully Stabilized their Prime Timeline, they can spend Ripple Points to attempt a **"Ripple Action"** in an effort to earn additional Ripple Points.
 
-#### The Action Loop
+#### The Action-Loop
 Each Traveler, in turn, takes actions in an attempt to shift reality to their timeline, to Stabilize it, or to earn more Ripple Points:
 - On the Traveler's turn, they narrate the action that they're going to take
 - Then they roll a D6:
 	- **6 = Critical Success**. The Traveler narrates how they succeed
- 		- **Totem Action**: Reality shifts to their Prime Timeline, they automatically earn +1 Prime Point and 2x Ripple Points
-   		- **Stabilize Action**: Their Prime Timeline is Stabilized, they earn 2x Ripple Points
+ 		- **Totem Action**: Reality shifts to their Prime Timeline, they automatically earn +1 Prime Point and +3 Ripple Points
+   		- **Stabilize Action**: Their Prime Timeline is Stabilized, they earn +3 Ripple Points
      	- **Ripple Action**: They earn 3x Ripple Points
   	- **5 = Success**. The Traveler narrates how they succeed
-  		- **Totem Action**: Reality shifts to their Prime timeline, They earn 1x +1 Ripple Point
-  	 	- **Stabilize Action**: Their Prime timeline is Stabilized, they earn 1x +1 Ripple Point
+  		- **Totem Action**: Reality shifts to their Prime timeline, They earn +2 Ripple Points
+  	 	- **Stabilize Action**: Their Prime timeline is Stabilized, they earn +2 Ripple Points
   	  	- **Ripple Action**: They earn 1x +2 Ripple points
 	- **3-4 = Setback**. The other Travelers narrate the setback
  		- **Totem Action**: Reality shifts to their Prime timeline, no points earned
@@ -79,9 +85,9 @@ Each Traveler, in turn, takes actions in an attempt to shift reality to their ti
      	- **Ripple Action**: They earn +1 Ripple Point
 	- **1-2 = Failure**. The GM narrates how they fail + adds a complication/condition, turn ends immediately
  		- **Totem Action**: Reality shifts to the BASE Timeline, -1 Prime Point
-   		- **Stabilize Action**: Timeline becomes UNSTABLE, -1x Ripple Point
-     	- **Ripple Action**: They lose -1x Ripple Point
-- The Traveller may continue attempting Stabilize or Ripple actions as long as they have Ripple Points to spend.
+   		- **Stabilize Action**: Timeline becomes UNSTABLE, -2 Ripple Points
+     	- **Ripple Action**: They lose -2 Ripple Point
+- Travellers may continue attempting Stabilize or Ripple actions as long as they have Ripple Points to spend.
 - When the Traveler's turn has ended, the GM helps narrate a transition and challenge for the next Traveler.
 
 This continues throughout the game until one Traveler has earned enough Prime Points to end the game.
