@@ -1,12 +1,12 @@
-# "Remedial Chaos Theory"
+# "Ripple-Effect"
 
-A Minimal TTRPG inspired by that episode of Community.
+A Minimal TTRPG inspired by the "Remedial Chaos Theory" episode of Community.
 
-"Remedial Chaos Theory" is a humorous, competitive but whimsical roleplaying game about a group of Travelers, each out of their own timeline, working desperately to shift reality back to their "Prime" timeline.
+"Ripple-Effect" is a humorous, competitive but whimsical roleplaying game about a group of Travelers, each out of their own timeline, working desperately to shift reality back to their "Prime" timeline.
 
 ## Playing:
 ### Game Requirements:
-**All that is required to play "Remedial Chaos Theory"**:
+**All that is required to play "Ripple-Effect"**:
 - 3 or more friends (at least 1 GM and 2 Travelers)
 - At least one D6 (though it's probably easier if everyone has one or two)
 - Pen/Pencil & paper (or some other method) for creating a character sheet and tracking points
