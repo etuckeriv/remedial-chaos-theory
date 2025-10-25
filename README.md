@@ -32,49 +32,59 @@ Each player is a "Traveler" - a normal person who has the ability to traverse ti
 
 ---
 ### Beginning:
-The session begins with the GM describing the scene that the Travelers currently find themselves in (based on the Base Timeline), and then asks "What do you notice that makes you feel like something is 'off'?". The group then narrates the indicators that they aren't in their Prime Timeline anymore, the GM plays off of these descriptions to describe an initial challenge and then simply asks the first player "What do you do?"
+The session begins with the GM describing the scene that the Travelers currently find themselves in (based on the Base Timeline), and then asks "What do you notice that makes you feel like something is 'off'?".
+
+The group then narrates the indicators that they aren't in their Prime Timeline anymore, the GM plays off of these descriptions to present an initial challenge and then simply asks the first player "What do you do?"
 
 ---
 ### Core Gameplay & Action-Loop:
 
 **Points**:
-To win the game, Travelers must accumulate "Ripple Points" and "Prime Points".
+To win the game, Travelers must earn "Ripple Points" and "Prime Points".
  - 4 Ripple Points = 1 Prime Point
  - 4 Prime Points wins the session
 
-Travelers are responsible for tracking their own points. Feel free to use something as simple as tally marks to track points, or get fancy and utilize ["Progress Clocks"](https://gm-lazarus.itch.io/rpg-progress-clocks) as a fun way to track them as well!
+Travelers are responsible for tracking their own points. 
+
+_**NOTE**: Feel free to use something as simple as tally marks to track points, or get fancy and utilize ["Progress Clocks"](https://gm-lazarus.itch.io/rpg-progress-clocks) as a fun way to track them as well!_
 
 **Timeline Stability**:
 Timeline Stability will make more sense later, but for now here is how it affects the Travelers:
-- A Traveler's actions within their Stabilized Prime Timeline receive Advantage
-- A Traveler's actions within a DeStabilized Foreign Timeline receive Advantage
-- A Traveler's actions within a Stabilized Foreign Timeline receive Disadvantage
+- A Traveler's actions within their **Stabilized Prime Timeline** receive **Advantage**
+- A Traveler's actions within a **DeStabilized Foreign Timeline** receive **Advantage**
+- A Traveler's actions within a **Stabilized Foreign Timeline** receive **Disadvantage**
+
+_**Note**: "Prime" Timeline = The Traveler's home timeline, "Foreign" Timeline = Any other timeline._
 
 **Actions**:
-- Timelines will shift often throughout the session, and given the active timeline twist and current scenario it's up to the Travelers to think up ways they will use their Totem to shift the timeline to their own. This is known as the "Totem Action".
-- After a Traveler has successfully shifted reality to their Prime Timeline, they can spend Ripple Points to attempt a "Stabilize Action" in an effort to Stabilize their timeline.
-- After a Traveler has successfully Stabilized their Prime Timeline, they can spend Ripple Points to attempt a "Ripple Action" in an effort to earn additional Ripple Points.
+- Timelines will shift often throughout the session, and given the active timeline twist and current scenario it's up to the Travelers to think up ways they will use their Totem to shift the timeline to their own. This is known as the **"Totem Action"**.
+- After a Traveler has successfully shifted reality to their Prime Timeline, they can spend Ripple Points to attempt a **"Stabilize Action"** in an effort to Stabilize their timeline.
+- After a Traveler has successfully Stabilized their Prime Timeline, they can spend Ripple Points to attempt a **"Ripple Action"** in an effort to earn additional Ripple Points.
 
 #### The Action Loop
 Each Traveler, in turn, takes actions in an attempt to shift reality to their timeline, to Stabilize it, or to earn more Ripple Points:
 - On the Traveler's turn, they narrate the action that they're going to take
 - Then they roll a D6:
-	- 6 = Critical Success. The Traveler narrates how they succeed
- 		- Totem Action: Reality shifts to their Prime Timeline, they automatically earn +1 Prime Point and 2x Ripple Points
-   		- Stabilize Action: Their Prime Timeline is Stabilized, they earn 2x Ripple Points
-     	- Ripple Action: They earn 3x Ripple Points
-  	- 5 = Success. The Traveler narrates how they succeed
-  		- Totem Action: Reality shifts to their Prime timeline, They earn 1x +1 Ripple Point
-  	 	- Stabilize Action: Their Prime timeline is Stabilized, they earn 1x +1 Ripple Point
-  	  	- Ripple Action: They earn 1x +2 Ripple points
-	- 3-4 = Setback. The other Travelers narrate the setback
- 		- Totem Action: Reality shifts to their Prime timeline, no points earned
-   		- Stabilize Action: Timeline is NOT Stabilized, no points earned
-     	- Ripple Action: They earn +1 Ripple Point
-	- 1-2 = Failure. The GM narrates how they fail + adds a complication/condition, turn ends immediately
- 		- Totem Action: Reality shifts to the BASE Timeline, -1 Prime Point
-   		- Stabilize Action: Timeline becomes UNSTABLE, -1x Ripple Point
-     	- Ripple Action: They lose -1x Ripple Point
+	- **6 = Critical Success**. The Traveler narrates how they succeed
+ 		- **Totem Action**: Reality shifts to their Prime Timeline, they automatically earn +1 Prime Point and 2x Ripple Points
+   		- **Stabilize Action**: Their Prime Timeline is Stabilized, they earn 2x Ripple Points
+     	- **Ripple Action**: They earn 3x Ripple Points
+  	- **5 = Success**. The Traveler narrates how they succeed
+  		- **Totem Action**: Reality shifts to their Prime timeline, They earn 1x +1 Ripple Point
+  	 	- **Stabilize Action**: Their Prime timeline is Stabilized, they earn 1x +1 Ripple Point
+  	  	- **Ripple Action**: They earn 1x +2 Ripple points
+	- **3-4 = Setback**. The other Travelers narrate the setback
+ 		- **Totem Action**: Reality shifts to their Prime timeline, no points earned
+   		- **Stabilize Action**: Timeline is NOT Stabilized, no points earned
+     	- **Ripple Action**: They earn +1 Ripple Point
+	- **1-2 = Failure**. The GM narrates how they fail + adds a complication/condition, turn ends immediately
+ 		- **Totem Action**: Reality shifts to the BASE Timeline, -1 Prime Point
+   		- **Stabilize Action**: Timeline becomes UNSTABLE, -1x Ripple Point
+     	- **Ripple Action**: They lose -1x Ripple Point
+- The Traveller may continue attempting Stabilize or Ripple actions as long as they have Ripple Points to spend.
+- When the Traveler's turn has ended, the GM helps narrate a transition and challenge for the next Traveler.
+
+This continues throughout the game until one Traveler has earned enough Prime Points to end the game.
 
 ---
 ### Session End
