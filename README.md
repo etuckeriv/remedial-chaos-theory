@@ -1,4 +1,4 @@
-# Ripple-Effect
+# Ripple Effect
 
 A Minimal TTRPG inspired by the "Remedial Chaos Theory" episode of Community.
 
