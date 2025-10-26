@@ -7,7 +7,7 @@ A Minimal TTRPG inspired by the "Remedial Chaos Theory" episode of Community.
 ## Playing:
 ### Game Requirements:
 **All that is required to play Ripple-Effect**:
-- 3 or more friends (at least 1 GM and 2 Travelers)
+- 3 or more friends (at least 1 GM and 2 Travelers) though Ripple Effect works best with 1 GM and 3-4 Travelers
 - At least one D6 (though it's probably easier if everyone has one or two)
 - Pen/Pencil & paper (or some other method) for creating a character sheet and tracking points
 
